@@ -2,8 +2,8 @@
 Mountains vs Beaches preference: a data analyst project where I looked at peoples preferences between two popular destinations-mountains and beaches.
 ## Description
 
-Mountains and Beaches Exploration The aim of this project is to explore and highlight the unique beauty, ecosystems, and recreational opportunities of both mountain and beach environments. 
-these two natural settings, covering topics such as biodiversity, conservation efforts, and tourism impacts.
+Mountains and Beaches:The aim of this project is to explore and highlight the unique beauty and recreational opportunities of both mountain and beach environments. 
+these two natural settings, covering topics such as activities, expenses, and tourism impacts.
 Offer insights and guidelines for sustainable practices that travelers can adopt when visiting these areas
 
 ## Getting Started
